@@ -13,7 +13,7 @@ def main():
     MMain.GuGudan(5)
     re_ = new.Add(5,5)
     re2_ = new.min(5,2)
-    re3_ = tt.Test("정근화T")
+    re3_ = tt.Test("정근화TT")
     print(re3_)
 if __name__ == "__main__":
     main()
